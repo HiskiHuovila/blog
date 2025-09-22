@@ -1,0 +1,45 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "HiskiH&#x27;s Blog",
+    "description": "",
+    "home_page_url": "https://blog.hiskih.fi",
+    "feed_url": "https://blog.hiskih.fi/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "HiskiH"
+    },
+    "items": [
+        {
+            "id": "https://blog.hiskih.fi/working-in-the-abstract.html",
+            "url": "https://blog.hiskih.fi/working-in-the-abstract.html",
+            "title": "Working in the abstract",
+            "summary": "This week we had a task to describe the thesis process. I’ve elected to change the title from last week Team: Solo Project type: Research project Technology: Games are books, written on Overleaf using Zotero as reference manager The project mostly consists of reading and&hellip;",
+            "content_html": "<p>This week we had a task to describe the thesis process. I’ve elected to change the title from last week</p><h4 id=\"enemy-expression-in-bx-derivative-osr-tabletop-roleplaying-games\">Enemy Expression in B/X-Derivative OSR Tabletop Roleplaying Games</h4>\n<p><em>Team:</em> Solo</p><p><em>Project type:</em> Research project</p><p><em>Technology:</em> Games are books, written on Overleaf using Zotero as reference manager</p><p>The project mostly consists of reading and cataloging a series of tabletop roleplaying game rulebooks. The aim of  the study is to find families of presentation styles for enemy statistics in these games using k-means clustering. I was inspired by the methodology detailed in this post <a href=\"https://traversefantasy.blogspot.com/2022/12/osr-rules-families-faq-methodology.html?m=1\">https://traversefantasy.blogspot.com/2022/12/osr-rules-families-faq-methodology.html?m=1</a></p><p>The main dataset will be limited to any books and pdfs I can get access to. I have a good set already and many games have rules that are freely available. I can use the reference list in the post as a starting point and add in some statistics from rpg.net forum users preferred games to filter out bias.</p><p>Whether I end up with this plan or not shall be seen. I’m already thinking of using the findings from the above link as a basis and instead studying each cluster individually.</p>",
+            "author": {
+                "name": "HiskiH"
+            },
+            "tags": [
+                   "thesis",
+                   "osr"
+            ],
+            "date_published": "2025-09-22T21:09:45+03:00",
+            "date_modified": "2025-09-22T21:09:45+03:00"
+        },
+        {
+            "id": "https://blog.hiskih.fi/thesis-origins.html",
+            "url": "https://blog.hiskih.fi/thesis-origins.html",
+            "title": "Thesis Origins",
+            "summary": "Welcome to my journey to write my Master’s thesis on tabletop roleplaying games. There isn’t much to say at this time but I am required to start with a short summary of my intial topic, so here goes: Enemy Balance in B/X-Derivative OSR Tabletop Roleplaying&hellip;",
+            "content_html": "<p>Welcome to my journey to write my Master’s thesis on tabletop roleplaying games. There isn’t much to say at this time but I am required to start with a short summary of my intial topic, so here goes:</p><p>Enemy Balance in B/X-Derivative OSR Tabletop Roleplaying Games</p><p>OSR (old-school revival, renaissance or revolution) is a philosophical movement focused on playing and creating tabletop roleplaying games that recreate the gameplay experience of early editions of Dungeons &amp; Dragons. A core tenet of this movement is disregard for mathematical balance in enemy design which makes it difficult for new designers to create games and content for this audience. As these games are highly derivative of the original versions of Dungeons &amp; Dragons this thesis studies the similarities and differences in enemy design between these games and their original inspirations.</p><p>Let’s see how this goes</p>",
+            "author": {
+                "name": "HiskiH"
+            },
+            "tags": [
+                   "thesis",
+                   "osr"
+            ],
+            "date_published": "2025-09-22T21:07:33+03:00",
+            "date_modified": "2025-09-22T21:09:51+03:00"
+        }
+    ]
+}
