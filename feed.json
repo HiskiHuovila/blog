@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.hiskih.fi/feeling-and-thought-designers-writers-and-artists.html",
+            "url": "https://blog.hiskih.fi/feeling-and-thought-designers-writers-and-artists.html",
+            "title": "Feeling &amp; Thought: Designers, Writers and Artists",
+            "summary": "I believe there are three types of indie RPG makers: Designers, Writers or Artists. There probably exits many more categorizations but today I will focus on these three. Despite many indie RPG makers needing to work all three of these roles, relatively few actually are&hellip;",
+            "content_html": "<p>I believe there are three types of indie RPG makers: Designers, Writers or Artists. There probably exits many more categorizations but today I will focus on these three. Despite many indie RPG makers needing to work all three of these roles, relatively few actually are experts in all of them. I believe it is useful to recognize which of these skillsets you have and which style of work you prefer.</p>\n<pre><em>This is a Feeling &amp; Thought. A series where I write about my experiences in the TTRPG hobby. Just like feelings, these thoughts aren't science, they aren't truth, and they definitely aren't reliable. Explore them with a playful attitude and don't take them too seriously. I certainly don't.</em></pre>\n<p><strong>Designers: </strong>The rules-nerds and those obsessed with dice systems. The Designer focuses on the mechanical workings of a system, totally convinced they will be the one to invent the next d20. Designers first and foremost make games over other aspects of the RPG hobby.</p>\n<p><strong>Writers: </strong>The content makers and the worldbuilders. The Writer is more than happy to pick up the reliable PbtA 2d6 to make their narrative come to life in a 400-page tome that no-one has time to read. Writers are most interested in making the roleplay part of the RPG acronym.</p>\n<p><strong>Artist: </strong>While having some overlap with the Writer, the Artist is more focused on stretching the boundaries of the hobby by making esoteric zines and publications. Their dream is to win the ENNIE for best layout with a game that cannot actually be played. Artists are most interested in using both roleplay and game as a form of artistic expression.</p>\n<p>We as RPG makers see lots of games. We like some and dislike others. A lot of it boils down to which of these three archetypes made that particular game and which archetype we find most interesting. Here's some examples all from the same small circle of OSR games:</p>\n<p><strong>Shadowdark </strong>is a Designer game. It's layout and art is simplistic black and white and the game really isn't known for it's worldbuilding. The true beauty of Shadowdark is how refined of a gameplay and user experience it is, using great design both in its systems and supportive content to bridge the gap between old-school and modern.</p>\n<p><strong>Mausritter </strong>is a Writer game. It uses the brilliant mechanics of Into the Odd to build one of if not the greatest game about tiny woodland critters. Most of Mausritter's charm is built into it's evocative tables and supportive content. People play Mausritter for the mice, not the dice.</p>\n<p><strong>Mörk Borg</strong> is an Artist game. It's mechanically sound but barely contains enough to be considered a full fledged game system. It's main draw is the incredible art and layout work by Johan Nohr. While many would find the lack of systems disappointing, Mörk Borg delivers a great grimdark experience with sheer loudness alone.</p>\n<p>That's that. Next time you find yourself puzzled by the success of a game, consider who made it and what are it's intentions. Is it trying to deliver in Design, Writing or Art? Which of these three did you expect?  Which one are you?</p>",
+            "author": {
+                "name": "HiskiH"
+            },
+            "tags": [
+                   "osr",
+                   "feeling &amp; thought"
+            ],
+            "date_published": "2025-09-28T20:38:08+03:00",
+            "date_modified": "2025-09-29T12:29:07+03:00"
+        },
+        {
             "id": "https://blog.hiskih.fi/working-in-the-abstract.html",
             "url": "https://blog.hiskih.fi/working-in-the-abstract.html",
             "title": "Working in the abstract",
