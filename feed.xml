@@ -3,7 +3,7 @@
     <title>HiskiH&#x27;s Blog</title>
     <link href="https://blog.hiskih.fi/feed.xml" rel="self" />
     <link href="https://blog.hiskih.fi" />
-    <updated>2025-10-23T19:04:39+03:00</updated>
+    <updated>2025-10-23T20:39:48+03:00</updated>
     <author>
         <name>HiskiH</name>
     </author>
@@ -32,7 +32,7 @@
 <p>where x is the number of desired outcomes (dice with same value) and all is every possible outcome.</p><p>We know that the number of all outcomes is die size 1 x die size 2. Every combination of both dice. For desired outcomes if both dice are the same size this is easy as we can just take each pair. For 2d6 that would be (1,1), (2,2), (3,3), (4,4), (5,5) and (6,6). Total of 6 desired outcomes.</p><p>But if the dice are arbitrarily sized? That’s surprisingly easy as well. Since the larger of the two dice can never make a pair with numbers that are higher than the possible value of the smaller die, the total possible amount of desired outcomes is still the size of the smaller die, same as with a pair of same sized dice, right? So that leaves us with the following formula:</p><pre class="mermaid">graph LR 
     A[&quot;$$\frac{smaller die}{smaller die * larger die} = \frac{1}{larger die}$$&quot;]
 </pre>
-<p>In other words the probability of rolling doubles on two arbitrary dice is 1 divided by the size of the larger die. Crazy and convinient. </p><p>Now comes the fun part. List all of the probabilities based on the larger die for d4 to d20:</p><table>
+<p>In other words the probability of rolling doubles on two arbitrary dice is 1 divided by the size of the larger die. Crazy and convinient. It’s the same as rolling the smaller die to determine which number needs to be rolled and then rolling the bigger die. The probability of rolling any one number on the bigger die is of course 1 / (die size).</p><p>Now comes the fun part. List all of the probabilities based on the larger die for d4 to d20:</p><table>
 <thead>
 <tr>
 <th>d4</th>
