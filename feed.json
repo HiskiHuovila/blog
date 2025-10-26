@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://blog.hiskih.fi/runecycle-yes-and-design.html",
+            "url": "https://blog.hiskih.fi/runecycle-yes-and-design.html",
+            "title": "Runecycle: &quot;Yes, and&quot; Design",
+            "summary": "As I am wrapping up Runecycle I find myself wanting to discuss&hellip;",
+            "content_html": "<p>As I am wrapping up Runecycle I find myself wanting to discuss a phenomenon I've finally found a name for: \"Yes, and\" Design. I believe it is one corner of the neo-trad / OC / modern DnD playstyle, though curiously it seems to often have OSR influence as well.</p>\n<p>What I'm talking about is games that are designed to empower the players and GM to do cool things. And you'd think this would describe a loooot of games and you'd be right. But having written (in my mind) an explicitly <em>Yes, and</em> game, I would like to be more specific.</p>\n<p>Many playstyles give players what they want in some way or another. A good OSR referee will allow the players to use their creativity in solving an obstacle, and storygames and PbtA games hand over authorial power to players. What would be more <em>Yes, and</em> than that? But here's the catch: While an OSR game grants the players creative freedom, the genre is inherently beholden to some amount of gritty realism. There is some amount of <em>Yes, but</em> going around. Similarly, games that give authorial control to everyone aren't in my eyes <em>Yes, and</em> as they tend to give out the reigns to the players as opposed to fostering a yes-and-ing collaboration between GM and player. I feel like too much narrative freedom is just <em>Yes, yes</em> Design, as opposed to the rules-driven sandbox of <em>Yes, and</em>.</p>\n<p>So what do I mean by <em>Yes, and</em>? I mean games that have rules that</p>\n<ul>\n<li>Explicitly encourage yes-and-ing by stating to rule in favor of the players in the procedure, and while rules detailed, are written with the explicit intent of being partially ignored. Rules that are not made to be watertight simulations but instead to offer a framework of fun (such as Vagabond // Pulp Fantasy RPG). </li>\n<li>Give players freedom to create unique and personal characters. Many games (Runecycle included) take the tag approach that allows for players to describe their character in thematic words and sentences without direct limits. Vagabond skirts the line with it's perk-system and mechanics-only magic system.</li>\n<li>Encourage players and GMs to tell a good story over tightly ruled game. That the game system inherently pushes players to stretch what is realistic and the GM to take the players from 0 to 100 in the narrative whenever necessary.</li>\n</ul>\n<p>These three features I observe in my playtests of Runecycle.</p>\n<p>That players tend to create characters with powers and backgrounds no-one could have foreseen: Everything from a now extinct <em>Steller's Sea Cow </em>to the<em> literal narrator of the story</em>.</p>\n<p>How I as the GM use the various tools in the rules toolbox to choose what type of rolls and Test I ask for and when, flexing both the passage of time and how success is defined to make the play experience as fun as it can be. Runecycle in my hands builds inherently high-action stories where fun and laughter is the primary goal, without trying to be a game of comedy.</p>\n<p>And how one of the first things the book tells the reader is to take the system and run it the way you want. I've hopefully been able to make a game that is very easy to mod and extend both narratively and ruleswise, without making a modular or generic system. I want you to take the bits you like and ignore the one's you don't.</p>\n<hr>\n<p>Yes-and-ing is great! So why isn't every game like that? Well, taking <em>Yes, and</em> to an extreme can have, for example, these negative consequences:</p>\n<ul>\n<li>lack of coherence, generality over specificity</li>\n<li>leaning on GM fiat while not having well defined basis to which make rulings from</li>\n<li>inherently more whimsical and less serious than many other games</li>\n<li>somehow both overwhelming and underwhelming rules</li>\n<li>no guardrails against optimizers and people bad at co-operating</li>\n</ul>\n<p>With that said, <em>Yes, and</em> Design is not a binary metric, most games have some amount of <em>Yes, and</em> in them. So take what you like and <em>Yes, and</em> yourself! Go make some games that <em>Yes, and</em> the way you see best.</p>\n<p>Cheers!</p>",
+            "author": {
+                "name": "HiskiH"
+            },
+            "tags": [
+                   "runecycle",
+                   "design"
+            ],
+            "date_published": "2025-10-25T20:41:57+03:00",
+            "date_modified": "2025-10-26T11:32:37+02:00"
+        },
+        {
             "id": "https://blog.hiskih.fi/dice-math-rolling-doubles-on-arbitrary-dice.html",
             "url": "https://blog.hiskih.fi/dice-math-rolling-doubles-on-arbitrary-dice.html",
             "title": "Dice Math: Rolling Doubles on Arbitrary Dice",
@@ -20,10 +36,12 @@
                 "name": "HiskiH"
             },
             "tags": [
-                   "math"
+                   "runecycle",
+                   "math",
+                   "design"
             ],
             "date_published": "2025-10-23T18:13:19+03:00",
-            "date_modified": "2025-10-23T20:39:48+03:00"
+            "date_modified": "2025-10-26T11:33:30+02:00"
         },
         {
             "id": "https://blog.hiskih.fi/feeling-and-thought-osr-procedures-are-pbta-moves.html",
@@ -36,10 +54,11 @@
             },
             "tags": [
                    "osr",
-                   "feeling &amp; thought"
+                   "feeling &amp; thought",
+                   "design"
             ],
             "date_published": "2025-10-08T12:58:11+03:00",
-            "date_modified": "2025-10-12T22:11:42+03:00"
+            "date_modified": "2025-10-26T11:32:59+02:00"
         },
         {
             "id": "https://blog.hiskih.fi/feeling-and-thought-designers-writers-and-artists.html",
