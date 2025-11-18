@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://blog.hiskih.fi/more-on-the-nwof.html",
+            "url": "https://blog.hiskih.fi/more-on-the-nwof.html",
+            "title": "More on the NWOF",
+            "summary": "My previous post on the NWOF made quite a splash. Some interesting&hellip;",
+            "content_html": "<p>My <a href=\"https://blog.hiskih.fi/new-wave-of-fantasy-nwof.html\">previous post</a> on the NWOF made quite a splash. Some interesting thoughts were brought up, so I’m here to talk more.</p><h2 id=\"in-response-to\">In Response To</h2>\n<p>The “in response to 5e” part is a compromise at best and confusing at worst. Here’s my reasoning why I used it they way I did: A response can be both a positive and a negative thing. It is an acknowledgement that something exists. A game made in response to 5e can be made to spite the corporate WotC or it can be to build on the great design innovations brought by the promised DnD Next. The important part is that the game was made and released into an ecosystem where 5e is the apex predator, knowing it has to fight to find a corner to occupy, or to please the 5e audience. Whether you love or hate 5e, a fantasy game of heroic action released after 2014 will always be in response to 5e as long as it remains at the top.</p><h2 id=\"pf2e-totv-and-a5e\">PF2e, TotV and A5e</h2>\n<p>Pathfinder 2e is an interesting case. It was made after 5e and it clearly positions itself as competition to 5e. But it also is continuation of a product line that came before 5e. I am willing to accept PF2e as an edge case to the NWOF label, even if begrudgingly.</p><p>The same applies to TotV - a game clearly made literally in response to 5e. The working title, project Black Flag raised the first banner against WotC during the OGL crisis. Yet eventually it crawled back and settled to be a 5e retroclone. I would love to disqualify TotV from the NWOF label because lets be honest, there isn’t much “new” or “wave” in that game. But the “in response to” is the strongest defining characteristic of NWOF, so it shall stay.</p><p>Level Up: Advanced 5th Edition is an interesting case. Initially I kept it out for similar reasons to PF2e, that it came out way before the OGL crisis. But the definition says “usually made after the OGL crisis” specifically to include any titles that came before, so A5e also gets an honorable mention. None of these games really feel like they are part of a New Wave but since the starting point is the release of 5e in 2014 I will have to oblige.</p><h2 id=\"the-genre-of-dnd\">The Genre of DnD</h2>\n<p>And important part of NWOF is the acknowledgement of the DnD-genre. Internet really did a number on the DnD brand and managed to mangle it into an entirely new genre of tropes and conventions. DnD is no longer just a medieval fantasy game, it’s a DnD-like, and now both games and non-interactive media try to emulate it. </p><p>There is some freedom in the NWOF label: I didn’t write Runecycle to play the same stories as DnD does. But I did write it to flow narratively in the same manner. Some OSR principles, some storytelling, some combat action. Not too far from how many perceive 5e to play, right?</p><h2 id=\"character-building\">Character Building</h2>\n<p>Something the definition does not mention but is very core to the NWOF is emphasis on character building. This is of course due to the influence of 5e but practically every NWOF game has an extensive, even if streamlined character building section. Perks, spells and playable classes abound. This I believe is one of the biggest contrasts between the NSR and NWOF. NSR games tend to keep the OSR minimalism in character creation, wheras NWOF games streamline other portions of the game.</p><h2 id=\"what-next\">What Next?</h2>\n<p>I think I still have more to say on NWOF, I would say it is my primary style of rpg design. But for that I think I will need to put down some guidelines, so stay tuned for whatever artsy manifesto I will eventually release.</p><p>You can leave now.</p>",
+            "author": {
+                "name": "HiskiH"
+            },
+            "tags": [
+                   "runecycle",
+                   "nwof",
+                   "design"
+            ],
+            "date_published": "2025-11-14T22:15:17+02:00",
+            "date_modified": "2025-11-18T23:52:19+02:00"
+        },
+        {
             "id": "https://blog.hiskih.fi/new-wave-of-fantasy-nwof.html",
             "url": "https://blog.hiskih.fi/new-wave-of-fantasy-nwof.html",
             "title": "New Wave of Fantasy - NWOF",
@@ -21,10 +38,11 @@
             },
             "tags": [
                    "runecycle",
+                   "nwof",
                    "design"
             ],
             "date_published": "2025-11-14T11:39:49+02:00",
-            "date_modified": "2025-11-14T21:46:57+02:00"
+            "date_modified": "2025-11-14T22:15:54+02:00"
         },
         {
             "id": "https://blog.hiskih.fi/runecycle-yes-and-design.html",
