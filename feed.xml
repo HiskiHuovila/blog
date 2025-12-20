@@ -3,12 +3,46 @@
     <title>HiskiH&#x27;s Blog</title>
     <link href="https://blog.hiskih.fi/feed.xml" rel="self" />
     <link href="https://blog.hiskih.fi" />
-    <updated>2025-11-27T21:01:22+02:00</updated>
+    <updated>2025-12-20T22:36:32+02:00</updated>
     <author>
         <name>HiskiH</name>
     </author>
     <id>https://blog.hiskih.fi</id>
 
+    <entry>
+        <title>Mobile Dungeon TaskForce - Playtest Report 1</title>
+        <author>
+            <name>HiskiH</name>
+        </author>
+        <link href="https://blog.hiskih.fi/mobile-dungeon-taskforce-playtest-report-1.html"/>
+        <id>https://blog.hiskih.fi/mobile-dungeon-taskforce-playtest-report-1.html</id>
+            <category term="playtest"/>
+
+        <updated>2025-12-20T22:30:03+02:00</updated>
+            <summary>
+                <![CDATA[
+                    I've been working on a game I call Mobile Dungeon TaskForce. Storywise&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I've been working on a game I call Mobile Dungeon TaskForce. Storywise it's a simple game where human military spec ops fight fantasy dungeons. No, I have not seen the anime Gate.</p>
+<p>The main design goal is to make a game that can easily convert existing OSR dungeons to play with this game and experience them from a new point of view. I like fantasy dungeons but I've never liked medieval dungeon crawlers.</p>
+<p>To achieve this goal I've decided to marry two excellent dungeon games: Into the Odd by Chris McDowall and Vagabond by Taron "Indestructoboy" Pounds. All of the simplicity from the former and some action-first ideas from the latter. And there is of course going to be an NWOF spin on the whole thing because we like character customization in this house.</p>
+<p>First playtest was set during the holidays so of course it was inspired by Die Hard. The players saved a skyscraper-bank from goblins after the vault of the bank got turned into a dragon's hoard. The players had a good time without any major hitches, thanks to the brilliant Mark of the Odd core. High lethality and some hand grenades already made the game quite fun to play.</p>
+<p>Here's what needs work:</p>
+<ul>
+<li>I tried using armor as a target number. Any damage below armor would be ignored, and above taken directly. But that felt useles at most armor numbers, so I'm going back to damage reduction.</li>
+<li>More tactics: the players were already fans of Shadowdark so simplistic combat was not an issue but they still hoped for more tactical combat. So I'm bringing in Action Points from Nimble into the mix! Let's see how that goes.</li>
+<li>More weapon mechanics: I already had four unique weapons that behaved differently in simple ways. AOE shotgun, high damage sniper, etc. The weapons also had optional attachments for minor tweaks. After testing, I will incorporate some of the attachments directly to the weapons. Players wanted the weapons to play very differently, so I will happily oblige and build in more mechanics to them.</li>
+<li>Despite the simple premise lore is needed to better explain how and why dungeons exist and why the general public does not know about them. I'm considering making it so that dungeons don't show up on camera.</li>
+<li>XP system to incentivise proper play. I'm thinking dealing out XP based on human hostages saved, as well as eliminating the heart of the dungeon (boss) and from figuring out why the dungeon appeared. Players need directions to avoid violating the Geneva Convention.</li>
+</ul>
+<p>Overall I'm very happy how well this worked out of the gate (pun intended). The core is there, the premise works and now it's all about finding the right balance of crunch and simplicity.</p>
+<p>The game is not currently available anywhere but you can follow me on <a href="https://bsky.app/profile/hiskih.fi">Bluesky</a> or <a href="https://hiskih.itch.io">Itch</a> to be the first to know when a playable version is out. Cheers!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The NWOF Promise</title>
         <author>
