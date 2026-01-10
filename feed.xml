@@ -3,12 +3,51 @@
     <title>HiskiH&#x27;s Blog</title>
     <link href="https://blog.hiskih.fi/feed.xml" rel="self" />
     <link href="https://blog.hiskih.fi" />
-    <updated>2025-12-20T22:36:32+02:00</updated>
+    <updated>2026-01-10T12:18:15+02:00</updated>
     <author>
         <name>HiskiH</name>
     </author>
     <id>https://blog.hiskih.fi</id>
 
+    <entry>
+        <title>How to Get Better at Game Design?</title>
+        <author>
+            <name>HiskiH</name>
+        </author>
+        <link href="https://blog.hiskih.fi/how-to-get-better-at-game-design.html"/>
+        <id>https://blog.hiskih.fi/how-to-get-better-at-game-design.html</id>
+        <media:content url="https://blog.hiskih.fi/media/posts/15/reading.jpg" medium="image" />
+            <category term="design"/>
+
+        <updated>2026-01-09T14:29:57+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.hiskih.fi/media/posts/15/reading.jpg" alt="" />
+                    Writing ttrpgs is a hobby many partake in because they just enjoy&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.hiskih.fi/media/posts/15/reading.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Writing ttrpgs is a hobby many partake in because they just enjoy writing. I wager among the hobbyists there are some that want to improve their craft but lack the necessary knowledge to do so. I may not be qualified as a professional game designer yet but as I am finishing my Master's degree in Game Design and Development I feel like I'm at least qualified to talk about studying game design. This is but a simple writeup with the most basic of ideas but if I can get even one person to read the books I recommend today, I have succeeded.</p>
+<p>Let's get the hard truth out of the way first: there are no shortcuts to getting better at game design. Like with any other skill, the secret is experience and hard work. The only way to improve is to make games and see how your designs work when played. The skill of a good designer is to predict what ideas are worth trying and how those ideas might work in practice but even the best designers fail and must test out their ideas rigorously. Design is not a savant skill, it's a process. Learn the process and you too can make great games.</p>
+<h2>Reading &amp; Reading</h2>
+<p>You've done some design and some testing but things aren't working out. Why is that? It's because you don't have the necessary knowledge to make informed design choices. You're just trying out things randomly. Fear not though, there are two types of books you can read to improve: design theory and reference games.</p>
+<h3>Theory</h3>
+<p>The world is full of great and not so great books on design. The one's that I see recommended the most and that I can vouch for are The Design of Everyday Things (Donald Norman, originally 1988, revised 2013) for general design thinking and The Art of Game Design (Jesse Schell, 2008, just get the latest edition) for everything about games.</p>
+<p>Design theory explains the process of design thinking and provides you with a series of mental models. Reading (or listening or watching) theory helps your brain structure games and subconsciously helps you design more efficiently. You will have to make your own mental models that fit your unique perspective but knowing how others see the world will help you build those models. There's no secret formula for great design but the more you read about how experienced designers think, the better you get at design thinking yourself.</p>
+<h3>References</h3>
+<p>Each game you design is unique. There is no secret formula for success, no source of perfect mechanics you can use. You must discover those ideas yourself. But what every good designer does is look at what other people have made. The hundreds and thousands of hours other designers spent figuring out what works for their games can be yours if you check out their games before making your own. Gather a large collection of references to memory and you'll come up with smarter ideas in no time. Pretty much no game I design comes from a vacuum, I'm always comparing ideas to existing solutions, pulling bits and pieces from here and there and modifying them to fit my needs. As a benchmark, a good game is about 90% old ideas and 10% new.</p>
+<h2>Back to Practice</h2>
+<p>You've read every book under the sun but you still struggle with your game. Why is that? Well the thing is you don't actually get better at design until you put that theory to practice. Your brain knows lots but it doesn't know how to use that knowledge, you gotta get it moving by making games and see how they operate.</p>
+<p>I cannot stress enough the importance of making multiple games. When you work on a project for a long time you begin to get stuck in your assumptions. The game does improve, sure, but if your goal is to become a better designer it's more useful to bang out completely new and radical projects quickly than it is to polish a single idea to perfection. Remeber, your first game probably sucks, and your second is likely not going to be your magnum opus. Bake enough cakes to get them real fluffy before you start decorating, you know?</p>
+<p>Fair warning though, don't forget you also need to learn how to finish games so at least every now and then go the extra mile and finish something. Only by publishing can your mind let go of the project and see your flaws and successes. There's always time to make a 2nd edtion. This is way easier to do if the games you make are small.</p>
+<h2>Conclusion</h2>
+<p>The idea that you benefit from learning both theory and practice isn't exactly groundbreaking. I wanted to do this little writeup to help new designers grow out of the notion that great games are designed by having some genius idea. No, they are made with a rigorous process of trying out different ideas until you find the perfect combination. To design is to solve hundreds of small issues in your game system, slowly improving on the rough parts until it works perfectly, instead of having to come up with a perfect machine from the get-go. Having a large collection of ideas at your disposal from your reading will help you find these little solutions. In addition, you must keep making games to train that brain of yours to put that reading you did to practice.</p>
+<p>I feel like I end all of my writeups by telling people to make games but this time it feels extra important. Cheers!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Mobile Dungeon TaskForce - Playtest Report 1</title>
         <author>
@@ -367,28 +406,6 @@
             <![CDATA[
                 <p>This week we had a task to describe the thesis process. I’ve elected to change the title from last week</p><h4 id="enemy-expression-in-bx-derivative-osr-tabletop-roleplaying-games">Enemy Expression in B/X-Derivative OSR Tabletop Roleplaying Games</h4>
 <p><em>Team:</em> Solo</p><p><em>Project type:</em> Research project</p><p><em>Technology:</em> Games are books, written on Overleaf using Zotero as reference manager</p><p>The project mostly consists of reading and cataloging a series of tabletop roleplaying game rulebooks. The aim of  the study is to find families of presentation styles for enemy statistics in these games using k-means clustering. I was inspired by the methodology detailed in this post <a href="https://traversefantasy.blogspot.com/2022/12/osr-rules-families-faq-methodology.html?m=1">https://traversefantasy.blogspot.com/2022/12/osr-rules-families-faq-methodology.html?m=1</a></p><p>The main dataset will be limited to any books and pdfs I can get access to. I have a good set already and many games have rules that are freely available. I can use the reference list in the post as a starting point and add in some statistics from rpg.net forum users preferred games to filter out bias.</p><p>Whether I end up with this plan or not shall be seen. I’m already thinking of using the findings from the above link as a basis and instead studying each cluster individually.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Thesis Origins</title>
-        <author>
-            <name>HiskiH</name>
-        </author>
-        <link href="https://blog.hiskih.fi/thesis-origins.html"/>
-        <id>https://blog.hiskih.fi/thesis-origins.html</id>
-            <category term="thesis"/>
-            <category term="osr"/>
-
-        <updated>2025-09-22T21:07:33+03:00</updated>
-            <summary>
-                <![CDATA[
-                    Welcome to my journey to write my Master’s thesis on tabletop roleplaying&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Welcome to my journey to write my Master’s thesis on tabletop roleplaying games. There isn’t much to say at this time but I am required to start with a short summary of my intial topic, so here goes:</p><p>Enemy Balance in B/X-Derivative OSR Tabletop Roleplaying Games</p><p>OSR (old-school revival, renaissance or revolution) is a philosophical movement focused on playing and creating tabletop roleplaying games that recreate the gameplay experience of early editions of Dungeons &amp; Dragons. A core tenet of this movement is disregard for mathematical balance in enemy design which makes it difficult for new designers to create games and content for this audience. As these games are highly derivative of the original versions of Dungeons &amp; Dragons this thesis studies the similarities and differences in enemy design between these games and their original inspirations.</p><p>Let’s see how this goes</p>
             ]]>
         </content>
     </entry>
