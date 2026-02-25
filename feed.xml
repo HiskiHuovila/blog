@@ -3,12 +3,68 @@
     <title>HiskiH&#x27;s Blog</title>
     <link href="https://blog.hiskih.fi/feed.xml" rel="self" />
     <link href="https://blog.hiskih.fi" />
-    <updated>2026-02-18T00:16:56+02:00</updated>
+    <updated>2026-02-25T23:23:47+02:00</updated>
     <author>
         <name>HiskiH</name>
     </author>
     <id>https://blog.hiskih.fi</id>
 
+    <entry>
+        <title>Mobile Dungeon TaskForce - Playtest Report 2</title>
+        <author>
+            <name>HiskiH</name>
+        </author>
+        <link href="https://blog.hiskih.fi/mobile-dungeon-taskforce-playtest-report-2.html"/>
+        <id>https://blog.hiskih.fi/mobile-dungeon-taskforce-playtest-report-2.html</id>
+        <media:content url="https://blog.hiskih.fi/media/posts/17/engrave-test.png" medium="image" />
+            <category term="playtest"/>
+
+        <updated>2026-02-25T23:19:41+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.hiskih.fi/media/posts/17/engrave-test.png" alt="" />
+                    Aight second playtest down. For those new here, MDTF is a game&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.hiskih.fi/media/posts/17/engrave-test.png" class="type:primaryImage" alt="" /></p>
+                <p>Aight second playtest down. For those new here, MDTF is a game where spec ops soldiers fight fantasy dungeons. Simple OSR-style rules and compatibility with existing OSR adventures.</p>
+<h2>What Works</h2>
+<ul>
+<li>The basic Mark of the Odd core combined with ideas from Vagabond is still great.</li>
+<li>The game features only 4 weapons but they feel distinct and interesting despite simple rules. Adding little modifiers like shotguns being short but AOE and snipers being long-distance but powerful force varying playstyles well.</li>
+<li>Shadow of the Demon Lord style initiative over side-based initiative introduced fun tactical elements without bogging down play. I toyed around with a 3-action combat economy which was certainly crunchier but I think lean but tactical is more fitting for the game.</li>
+<li>New story framing. Instead of fighting dungeons that are summoned by cultists, players fight the god of stories that is bringing fiction to life one dungeon at a time. More varied dungeons, a proper world-ending threat and overall more fun.</li>
+<li>Vagabond-style saves against damage. Players always hit but will roll to avoid enemy attacks. Players have very little healt but doing well with saving throws allows them to feel special and stay alive.</li>
+<li>STATs, CAPs, MAXes and SAVEs. I'll reserve a whole section explaining this system.</li>
+</ul>
+<h2>STATS, CAPS, etc.</h2>
+<p>What I have created is a funky combination of Into the Odd and Vagabond. Here's how it works:</p>
+<ul>
+<li>You have three stats: Endurance, Reflex and Character</li>
+<li>Each stat is a number between 2 and 7, a'la Vagabond. This is the MAX of the stat. The CAP of the STAT and the stat itself start here too.</li>
+<li>For SAVES you roll a d20 and try to hit [20 - (2xSTAT)]. Classic saving throw stuff with precalculated static DC. Easy for the modern audience that likes to roll high.</li>
+<li>Your stats are also resources. Endurance is your health and Character is your luck points for rerolls, asking free questions from the GM, pulling grenades out of your pocket etc.</li>
+<li>Your Endurance resets after each combat to its CAP.</li>
+<li>If your Endurance goes below 0 the remaining damage is reduced from the CAPs of your stats.</li>
+<li>If a CAP goes below the current value of the STAT, the STAT also reduces (not MAXes or SAVEs though).</li>
+<li>Your Character resets between adventures.</li>
+<li>If your CAPs go to 0 you die.</li>
+</ul>
+<p>Why is this cool? It's super simple once set up. You have your health and resources (Reflex will also feature use cases) that are small enough that you can't just spam them. But when you do take damage you must choose if you want to heal to a lower maximum or reduce your resources. Optimally you would spend your resources a little to give you a buffer against damage, preventing you from holding on to them too long. But spending them all on an encounter is also not that wise because this game can be pretty lethal.</p>
+<h2>What Didn't Work</h2>
+<ul>
+<li>Players did not spend Reflex points on Mythic Bastionland style gambits. Next up is gonna be a test for a called shot table utilizing the classic d12-shaped bodypart targeting die that is sold in some stores.</li>
+<li>Character points cannot be used on rerolls because then you should always reroll when you are at risk of losing your CAP. Some kind of rerolls might still be needed because Vagabond-style saves can suffer from bad luck.</li>
+<li>Dungeons only exist when there are witnesses. I wanted players to extract the civilians safely. But after they did they considered just dying so there is no-one to see the dungeon anymore. So I'm gonna figure out what incentives I can put in the narrative for them to fight like hell.</li>
+<li>Guns had mods where each gun would have various types of attachments. This was fun but the added complexity might not be worth it as I found myself having to come up with more mods than I had inspiration for. Next test will feature simpler guns again, complexity can be brought in later.</li>
+<li>I've decided to not care about XP for the time being. Leveling up is a future problem after the core works. Perhaps you get +1 HP per level or reroll a stat or something.</li>
+</ul>
+<p>The game is not currently available anywhere but you can follow me on <a href="https://bsky.app/profile/hiskih.fi">Bluesky</a> or <a href="https://hiskih.itch.io">Itch</a> to be the first to know when a playable version is out. Cheers!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cities: Quick Size Reference</title>
         <author>
@@ -474,37 +530,6 @@
 <p>For the record, the OSR didn't influence Apocalypse World much at all, but Basic D&amp;D definitely did. (In my case, Moldvay ed, 1980.) I think of Apocalypse World and the OSR as cousins in that way, so of course they share some things and really don't share others.</p>
 </blockquote>
 <p>That's it for this (admittedly convoluted) thought! Thank you Vincent for your insight! I'll head to my corner and start working on a PbtA + OSR hybrid now...</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Feeling &amp; Thought: Designers, Writers and Artists</title>
-        <author>
-            <name>HiskiH</name>
-        </author>
-        <link href="https://blog.hiskih.fi/feeling-and-thought-designers-writers-and-artists.html"/>
-        <id>https://blog.hiskih.fi/feeling-and-thought-designers-writers-and-artists.html</id>
-            <category term="osr"/>
-            <category term="feeling &amp; thought"/>
-
-        <updated>2025-09-28T20:38:08+03:00</updated>
-            <summary>
-                <![CDATA[
-                    I believe there are three types of indie RPG makers: Designers, Writers&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I believe there are three types of indie RPG makers: Designers, Writers or Artists. There probably exits many more categorizations but today I will focus on these three. Despite many indie RPG makers needing to work all three of these roles, relatively few actually are experts in all of them. I believe it is useful to recognize which of these skillsets you have and which style of work you prefer.</p>
-<pre><em>This is a Feeling &amp; Thought. A series where I write about my experiences in the TTRPG hobby. Just like feelings, these thoughts aren't science, they aren't truth, and they definitely aren't reliable. Explore them with a playful attitude and don't take them too seriously. I certainly don't.</em></pre>
-<p><strong>Designers: </strong>The rules-nerds and those obsessed with dice systems. The Designer focuses on the mechanical workings of a system, totally convinced they will be the one to invent the next d20. Designers first and foremost make games over other aspects of the RPG hobby.</p>
-<p><strong>Writers: </strong>The content makers and the worldbuilders. The Writer is more than happy to pick up the reliable PbtA 2d6 to make their narrative come to life in a 400-page tome that no-one has time to read. Writers are most interested in making the roleplay part of the RPG acronym.</p>
-<p><strong>Artist: </strong>While having some overlap with the Writer, the Artist is more focused on stretching the boundaries of the hobby by making esoteric zines and publications. Their dream is to win the ENNIE for best layout with a game that cannot actually be played. Artists are most interested in using both roleplay and game as a form of artistic expression.</p>
-<p>We as RPG makers see lots of games. We like some and dislike others. A lot of it boils down to which of these three archetypes made that particular game and which archetype we find most interesting. Here's some examples all from the same small circle of OSR games:</p>
-<p><strong>Shadowdark </strong>is a Designer game. It's layout and art is simplistic black and white and the game really isn't known for it's worldbuilding. The true beauty of Shadowdark is how refined of a gameplay and user experience it is, using great design both in its systems and supportive content to bridge the gap between old-school and modern.</p>
-<p><strong>Mausritter </strong>is a Writer game. It uses the brilliant mechanics of Into the Odd to build one of if not the greatest game about tiny woodland critters. Most of Mausritter's charm is built into it's evocative tables and supportive content. People play Mausritter for the mice, not the dice.</p>
-<p><strong>Mörk Borg</strong> is an Artist game. It's mechanically sound but barely contains enough to be considered a full fledged game system. It's main draw is the incredible art and layout work by Johan Nohr. While many would find the lack of systems disappointing, Mörk Borg delivers a great grimdark experience with sheer loudness alone.</p>
-<p>That's that. Next time you find yourself puzzled by the success of a game, consider who made it and what are it's intentions. Is it trying to deliver in Design, Writing or Art? Which of these three did you expect?  Which one are you?</p>
             ]]>
         </content>
     </entry>
