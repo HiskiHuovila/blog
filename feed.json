@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://blog.hiskih.fi/i-used-to-dislike-tea.html",
+            "url": "https://blog.hiskih.fi/i-used-to-dislike-tea.html",
+            "title": "I Used to Dislike Tea",
+            "summary": "Do you think tea tastes like water and grass? Do you find&hellip;",
+            "content_html": "<p>Do you think tea tastes like water and grass? Do you find yourself completely indifferent to the concept of leaf-flavored water? That was me, and if that is you, let me tell you how I figured out tea over the past year.</p>\n<p>I do not like <em>green tea,</em> it tastes like grass.</p>\n<p>I tolerate <em>black tea, </em>it has a flavor...sort of... somewhere.</p>\n<p>And those two basic boring bitches are most of the tea you get exposed to. If you like them I'm happy for you, and honestly a bit jealous of your ability to enjoy the most popular tea flavors.</p>\n<p>For me everything changed when I bought a hand-crafted packet of various flavors of tea. And I don't mean various flavorings of <em>black tea, </em>I mean various types of tea, pure and unflavored.</p>\n<p>Before you try to find your favorite seasoning from blueberries to lemongrass, you should try various types of tea because there are tons. And the base flavor of the various tea types is suuuper important. If you find one that you like you can further tweak it with additional flavorings.</p>\n<p>So I've found two types of tea I like: <em>pu-erh</em> and <em>oolong. </em>Yes, of course they are more expensive than your basic <em>black</em> and <em>green.</em></p>\n<p><em>Pu-erh </em>is fermented tea, kinda. It's strong and usually not recommended for first-timers. For me it was perfect, because finally tea had a proper taste beyond lightly flavored water. If you find basic teas kinda flavorless, consider picking up <em>pu-erh. </em>I specifically enjoy <em>fruity pu-erh </em>which has, you guessed it, fruits in it. Makes it a bit softer and, well, fruitier.</p>\n<p>And my new find I'm still learning about, <em>oolong, </em>specifically <em>four-seasons oolong. </em>I tried it once and immediately went to get more. That particular <em>oolong</em> was incredible, it was mellow like <em>green</em> but did not taste like grass. It had almost a sweet aftertaste to it despite having nothing besides tea-leaves in it. A great find if you dislike bitter or grassy teas.</p>\n<p>Finally, the market variety teas. Many swear on the more expensive loose-leaf teas sold in specialty shops. I can't really say if hand pouring on your loose-leaves is truly that much better but I have found much enjoyment in the process. Making a trip to a teashop to explore the various specialties is much more likely to find you a tea that you like than whatever they put in the mass-market teabags.</p>\n<p>My friends that pushed me to properly explore the world of teas were correct. If you don't like tea, you just havent found the one for you. Or you prefer coffee, I suppose. So get yourself a cheap strainer and small pouches of various loose-leaves. Initially it will cost you maybe 10 to 20 bucks. Soon you will be splurging on the expensive limited-season premiums, I'm sure.</p>",
+            "image": "https://blog.hiskih.fi/media/posts/19/leafwater.jpg",
+            "author": {
+                "name": "HiskiH"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-04T20:31:37+02:00",
+            "date_modified": "2026-03-04T20:49:17+02:00"
+        },
+        {
             "id": "https://blog.hiskih.fi/mobile-dungeon-taskforce-playtest-report-2.html",
             "url": "https://blog.hiskih.fi/mobile-dungeon-taskforce-playtest-report-2.html",
             "title": "Mobile Dungeon TaskForce - Playtest Report 2",
@@ -40,7 +55,7 @@
                    "math"
             ],
             "date_published": "2026-02-17T23:20:12+02:00",
-            "date_modified": "2026-02-18T00:16:56+02:00"
+            "date_modified": "2026-02-25T23:36:48+02:00"
         },
         {
             "id": "https://blog.hiskih.fi/how-to-get-better-at-game-design.html",
@@ -155,23 +170,6 @@
             ],
             "date_published": "2025-10-23T18:13:19+03:00",
             "date_modified": "2025-10-26T11:33:30+02:00"
-        },
-        {
-            "id": "https://blog.hiskih.fi/feeling-and-thought-osr-procedures-are-pbta-moves.html",
-            "url": "https://blog.hiskih.fi/feeling-and-thought-osr-procedures-are-pbta-moves.html",
-            "title": "Feeling &amp; Thought: OSR procedures are PbtA moves?",
-            "summary": "You read the title. After doing some heavy research into various OSR&hellip;",
-            "content_html": "<p>You read the title. After doing some heavy research into various OSR games as well as reading both Apocalypse World and Masks: A New Generation I had a thought: how far are OSR procedures from PbtA moves?</p>\n<pre><em>This is a Feeling &amp; Thought. A series where I write about my experiences in the TTRPG hobby. Just like feelings, these thoughts aren't science, they aren't truth, and they definitely aren't reliable. Explore them with a playful attitude and don't take them too seriously. I certainly don't.<br></em></pre>\n<p>Credit where credit is due, this whole thought is based on discussion we had over at the NSR Cauldron. Prompted by a question of transitioning from PbtA games to OSR games, a debate was held on the similarities of these two playstyles. Of course these two styles differ in their approach to story: PbtA maximizing the narrative impact and flow whereas OSR almost nihilistically disregards storytelling. The priorities at the table could not be more diametrically opposed. Yet, when looking at the tools these games use, they suddenly are not that far apart.</p>\n<h5>Minimal Rules</h5>\n<p>Both styles aim to be extremely simple to run and reduce the amount of rules a player needs to remember.</p>\n<h5>Roll when necessary</h5>\n<p>Both styles are very particular about when to roll dice. OSR to resolve conflict and PbtA to resolve a situation when a move is triggered.</p>\n<h5>Proceduralism</h5>\n<p>While the more minimal OSR games avoid heavy procedure, more recent games like Errant are quite thick with various systems to keep the game running. PbtA games are quite similar with extensive and complex move descriptions with elaborate outcomes.</p>\n<p>A big point of contention in the discussion was about the idea of looking for solutions on your character sheet. This is a gameplay ideal OSR often uses to differentiate itself from modern D&amp;D and its ilk: OSR games want you to solve problems in fiction, wheras games with more elaborate character sheets and abilities often result in players looking for spells and abilities from their character. Initially I argued using the points mentioned above that PbtA runs similar to OSR, with a series of moves that explain the procedure for particular actions. However...</p>\n<hr>\n<p>Vincent Baker, the author of Apocalypse World, the A in PbtA, appeared carrying great insight! Which did sway me to change my view slightly. The following are a few quotes from Vincent, posted with permission, and my thoughts on them:</p>\n<blockquote>\n<p>If you think of AW as kind of a contract between the players (inc the GM), the moves are things that the players are entitled to. When I have my character read a situation, for instance, I'm entitled to roll+Sharp and ask a couple of questions.</p>\n</blockquote>\n<p>Very clearly the players are expected to use the tools in their arsenal. Obviously OSR games also grant you tools to use but not at this scale. Push-button-on-sheet confirmed?</p>\n<blockquote>\n<p>I don't think of them [moves] as solutions, in Apocalypse World's case. Many of the moves, most of the time, don't solve problems, they clarify and/or escalate them.</p>\n</blockquote>\n<p>This is where it gets interesting. The main issue OSR players have with the modern D&amp;D style is that quite often players will see a problem and ask to make something like an <em>Intelligence Check </em>to get a solution or cast a spell (that can't fail by the way) to make something happen. The moves in Apocalypse World don't exactly work this way, instead they direct the flow of action towards an outcome. Vincent wrapped up this line of thought nicely:</p>\n<blockquote>\n<p>If the GM's job is to give you problems, then yeah, sometimes your moves will give you solutions to them, and that can be pretty dissatisfying. But if the GM's job is to give you interesting situations to make decisions about, you'll never find your decision in your moves, your moves just give you different options to consider. This is Apocalypse World's model. I can't speak for other PbtA games!</p>\n</blockquote>\n<hr>\n<p>Where does this lead? Obviously the styles of play are different, but how exactly? My aswer is this: Both OSR and PbtA style games can be procedure heavy, but where PbtA wants you to use its procedure (moves) actively, OSR games use procedures to speed players along to the point, which is problem solving in fiction. Even a procedure heavy OSR game doesn't want you to play through procedure unless necessary. For PbtA the moves are the gameplay.</p>\n<p>Another question I pondered is how much the problems these styles of play present  influences the amount of procedure used. If a character from Apocalypse World entered an OSR style dungeon I think they would not use most of their moves to solve their problems. The majority of moves are to direct stories between characters, as opposed to characters and their environment. If social situations were more prevalent in OSR games, would we have more active procedures to resolve them?</p>\n<p>So all in all, to no-one's surprise, the games and styles share some common dna but have major differences. Vincent confirmed this as well:</p>\n<blockquote>\n<p>For the record, the OSR didn't influence Apocalypse World much at all, but Basic D&amp;D definitely did. (In my case, Moldvay ed, 1980.) I think of Apocalypse World and the OSR as cousins in that way, so of course they share some things and really don't share others.</p>\n</blockquote>\n<p>That's it for this (admittedly convoluted) thought! Thank you Vincent for your insight! I'll head to my corner and start working on a PbtA + OSR hybrid now...</p>",
-            "author": {
-                "name": "HiskiH"
-            },
-            "tags": [
-                   "osr",
-                   "feeling &amp; thought",
-                   "design"
-            ],
-            "date_published": "2025-10-08T12:58:11+03:00",
-            "date_modified": "2025-10-26T11:32:59+02:00"
         }
     ]
 }
