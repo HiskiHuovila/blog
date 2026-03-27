@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://blog.hiskih.fi/all-hail-the-nwohf.html",
+            "url": "https://blog.hiskih.fi/all-hail-the-nwohf.html",
+            "title": "All Hail the NWoHF",
+            "summary": "Due to some recent developments I’m conceding the NWOF label for the&hellip;",
+            "content_html": "<p>Due to some recent developments I’m conceding the NWOF label for the NWoHF acronym. This post contains a short history on the whole thing as well as my thoughts on it now.</p><p>This all happened on the NSR Cauldron Discord. In late 2025 <em>Brandon</em> said something about “a new wave of heroic fantasy” which <em>ordinal</em> coined as NWoHF (the o used to be capitalized but shrunk down at some point). Me and <em>Window Dump</em> jumped in on the discussion and over time agreed upon the outlines of this phenomenon.</p><p>I believed the acronym was too complex (and I still do) so I wrote my own series of blog posts on the NWOF, New Wave of Fantasy (see <a href=\"https://blog.hiskih.fi/new-wave-of-fantasy-nwof.html\">original definition</a>, <a href=\"https://blog.hiskih.fi/more-on-the-nwof.html\">additional discussion</a> and <a href=\"https://blog.hiskih.fi/the-nwof-promise.html\">the NWOF promise</a>) mainly because I wanted to include <em>Vagabond // Pulp Fantasy RPG</em> and <em>Legend in the Mist - a rustic fantasy RPG</em> under the label.</p><p>I’m finally throwing in the towel and conceding the Heroic H is important. I’ve since learned that both <em>Vagabond</em> and <em>Legend in the Mist</em> call their characters Heroes. All of my counter examples have vanished so I have to conclude that NWoHF is the superior label. Admittedly shrinking down the o helped. Can we still pronounce it as <em>en-wof</em>?\nThe rest of this post is an updated combination of my previous posts trying to explain what the NWoHF is.</p><h2 id=\"defining-the-nwohf-again\">Defining the NWoHF (again)</h2>\n<blockquote>\n<p>NWOF games feel like 5e DnD narratively but not mechanically</p></blockquote>\n<h3 id=\"nwohf-games-are-often\">NWoHF games are often:</h3>\n<ul>\n<li>fantasy games influenced by DnD 5e</li>\n<li>made after or in response to the OGL fiasco</li>\n<li>heroic and kitchen-sink fantasy</li>\n<li>speaking to the 5e audience, sometimes unintentionally</li>\n</ul>\n<p>The games sit somewhere between NSR games and 5e. Usually more complex than the OSR tradition but many are quite simplified from the full 5e package.</p><pre class=\"mermaid\">flowchart LR\n    B/X --- OSR --- NSR --- NWoHF --- 5e\n</pre>\n<h3 id=\"some-nwohf-games\">Some NWoHF games</h3>\n<ul>\n<li>Daggerheart</li>\n<li>Nimble</li>\n<li>DC20</li>\n<li>Draw Steel</li>\n<li>Grimwild</li>\n<li>Cosmere RPG</li>\n<li>Legend in the Mist </li>\n<li>Vagabond // Pulp Fantasy RPG</li>\n</ul>\n<p>Here’s what I think you can expect when you play an NWoHF game:</p><ul>\n<li>Relatively simple rules and resolution mechanics yet often complex character building.</li>\n<li>You play as a protagonistic hero with implied growth towards saving something important to you, oftentimes the world.</li>\n<li>Fiction first rules with some amount of storytelling mechanics behind them.</li>\n<li>The game caters to a specific style of play within the heroic fantasy genre with some games focusing on storytelling and others on crunchy combat.</li>\n<li>Focus on characters, personal stories and exploring the world created by the GM. Sometimes the players also build parts of the world.</li>\n<li>A mix of ideas from various traditions from OSR to PbtA.</li>\n</ul>\n<h3 id=\"nwohf-vs-heartbreaker\">NWoHF vs Heartbreaker</h3>\n<p>One can ask if NWoHF is just a new name for the fantasy heartbreaker. In a way yes, a game can be both an NWoHF game and a heartbreaker but they do still differ in my mind. A heartbreaker is a game that is trying to be <em>Dungeons &amp; Dragons</em> whereas an NWoHF game is doing its own thing in the same genre of heroic fantasy. Heartbreakers are inspired by the D&amp;D books but NWoHF games tend to be more inspired by the stories people tell with 5e on actual play shows and other media.</p><p>Remember that labels and definitions are tools for communication. They help us hone in on what parts we find valuable, interesting or worthwhile. I don’t consider NWoHF to be a sole definer of a game or a proper genre though if someone were to ask me to play an NWoHF game I think I would have a solid idea what to expect. Whether a particular game fits or doesn’t fit the label is ultimately not that important.</p>",
+            "image": "https://blog.hiskih.fi/media/posts/21/nwohf-2.jpg",
+            "author": {
+                "name": "HiskiH"
+            },
+            "tags": [
+                   "nwohf"
+            ],
+            "date_published": "2026-03-27T14:37:58+02:00",
+            "date_modified": "2026-03-27T15:08:53+02:00"
+        },
+        {
             "id": "https://blog.hiskih.fi/i-used-to-dislike-tea.html",
             "url": "https://blog.hiskih.fi/i-used-to-dislike-tea.html",
             "title": "I Used to Dislike Tea",
@@ -98,7 +114,7 @@
                 "name": "HiskiH"
             },
             "tags": [
-                   "nwof",
+                   "nwohf",
                    "design"
             ],
             "date_published": "2025-11-16T01:55:41+02:00",
@@ -115,7 +131,7 @@
             },
             "tags": [
                    "runecycle",
-                   "nwof",
+                   "nwohf",
                    "design"
             ],
             "date_published": "2025-11-14T22:15:17+02:00",
@@ -132,7 +148,7 @@
             },
             "tags": [
                    "runecycle",
-                   "nwof",
+                   "nwohf",
                    "design"
             ],
             "date_published": "2025-11-14T11:39:49+02:00",
@@ -153,23 +169,6 @@
             ],
             "date_published": "2025-10-25T20:41:57+03:00",
             "date_modified": "2025-10-26T11:32:37+02:00"
-        },
-        {
-            "id": "https://blog.hiskih.fi/dice-math-rolling-doubles-on-arbitrary-dice.html",
-            "url": "https://blog.hiskih.fi/dice-math-rolling-doubles-on-arbitrary-dice.html",
-            "title": "Dice Math: Rolling Doubles on Arbitrary Dice",
-            "summary": "As I was finalizing the mechanics on Runecycle I needed a semi-frequent&hellip;",
-            "content_html": "<p>As I was finalizing the mechanics on Runecycle I needed a semi-frequent and easy to read way to trigger an event: a way to regain resources by playing. I tried a couple different ways until I settled on my current approach: when you roll doubles. In the game you always roll two dice of varying sizes, similar to how the Year Zero Engine step-dice variant works. A lot can be said about the math in this system but that is a story for another day. Here I want to talk about rolling doubles, or in other words rolling the same number on both dice. You might notice this is how crits work in Daggerheart too. Topical, huh.</p><p>This isn’t something new, this probability has been known for a loooong time. But I wager many don’t know about it especially considering how little the mechanic is used in ttrpgs.</p><p>The probability of rolling the same number on two arbitrarily sized dice is</p><pre class=\"mermaid\">graph LR \n    A[&quot;$$\\frac{x}{all}$$&quot;]\n</pre>\n<p>where x is the number of desired outcomes (dice with same value) and all is every possible outcome.</p><p>We know that the number of all outcomes is die size 1 x die size 2. Every combination of both dice. For desired outcomes if both dice are the same size this is easy as we can just take each pair. For 2d6 that would be (1,1), (2,2), (3,3), (4,4), (5,5) and (6,6). Total of 6 desired outcomes.</p><p>But if the dice are arbitrarily sized? That’s surprisingly easy as well. Since the larger of the two dice can never make a pair with numbers that are higher than the possible value of the smaller die, the total possible amount of desired outcomes is still the size of the smaller die, same as with a pair of same sized dice, right? So that leaves us with the following formula:</p><pre class=\"mermaid\">graph LR \n    A[&quot;$$\\frac{smaller die}{smaller die * larger die} = \\frac{1}{larger die}$$&quot;]\n</pre>\n<p>In other words the probability of rolling doubles on two arbitrary dice is 1 divided by the size of the larger die. Crazy and convinient. It’s the same as rolling the smaller die to determine which number needs to be rolled and then rolling the bigger die. The probability of rolling any one number on the bigger die is of course 1 / (die size).</p><p>Now comes the fun part. List all of the probabilities based on the larger die for d4 to d20:</p><table>\n<thead>\n<tr>\n<th>d4</th>\n<th>d6</th>\n<th>d8</th>\n<th>d10</th>\n<th>d12</th>\n<th>d20</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>25%</td>\n<td>16.67%</td>\n<td>12.5%</td>\n<td>10%</td>\n<td>8.34%</td>\n<td>5%</td>\n</tr>\n</tbody></table>\n<p>As you can see, whatever pair of dice you roll, you know the probability of rolling doubles. And assuming you are using a pair between d6 and d12, you know the probability is approximately 10-15%. If larger die is better a player might work it out that your chance of rolling doubles is twice as low for a pair that has a d12 than it is for 2d6. But if succeeding with 2d6 is way less likely than say d12+d6 then no-one is willing to take that bet for a 16% chance to roll doubles, when the alternative is a high probability to succeed and 8% chance to roll doubles. Especially in my game where rolling doubles does not make you succeed at the roll like Daggerheart does.</p><p>That’s it for today! Go make cool stuff now.</p>",
-            "author": {
-                "name": "HiskiH"
-            },
-            "tags": [
-                   "runecycle",
-                   "math",
-                   "design"
-            ],
-            "date_published": "2025-10-23T18:13:19+03:00",
-            "date_modified": "2025-10-26T11:33:30+02:00"
         }
     ]
 }
