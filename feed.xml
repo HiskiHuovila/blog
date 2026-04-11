@@ -3,12 +3,83 @@
     <title>HiskiH&#x27;s Blog</title>
     <link href="https://blog.hiskih.fi/feed.xml" rel="self" />
     <link href="https://blog.hiskih.fi" />
-    <updated>2026-03-27T15:08:53+02:00</updated>
+    <updated>2026-04-11T19:48:18+03:00</updated>
     <author>
         <name>HiskiH</name>
     </author>
     <id>https://blog.hiskih.fi</id>
 
+    <entry>
+        <title>Mobile Dungeon Task Force: Stats, Maxes and Caps</title>
+        <author>
+            <name>HiskiH</name>
+        </author>
+        <link href="https://blog.hiskih.fi/mobile-dungeon-task-force-stats-maxes-and-caps.html"/>
+        <id>https://blog.hiskih.fi/mobile-dungeon-task-force-stats-maxes-and-caps.html</id>
+        <media:content url="https://blog.hiskih.fi/media/posts/22/stat-cap-max.jpg" medium="image" />
+            <category term="playtest"/>
+            <category term="mdtf"/>
+            <category term="design"/>
+
+        <updated>2026-04-11T19:24:19+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.hiskih.fi/media/posts/22/stat-cap-max.jpg" alt="" />
+                    The latest version of MDTF playtest features a stat system that combines&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.hiskih.fi/media/posts/22/stat-cap-max.jpg" class="type:primaryImage" alt="" /></p>
+                <p>The latest version of MDTF playtest features a stat system that combines Into the Odd and Vagabond // Pulp Fantasy RPG. Here's how it works:</p>
+<p>You have three stats: Endurance (END), Reflex (REF) and Character (CHA). Each stat has a MAX value between 2 and 7.</p>
+<p>On your character sheet each stat has a value, a MAX value and CAP value. Your MAX is the canonical value of the stat and doesn't affect play in any way. Your CAP value is the maximum value the stat can have DURING play.</p>
+<p>So when you play, your stats might look like this:</p>
+<ul style="list-style-type: square;">
+<li>END 4 / 7  (MAX 7)</li>
+<li>REF 3 / 5  (MAX 5)</li>
+<li>CHA 6 / 6  (MAX 6)</li>
+</ul>
+<p>Your END acts as your health, so when you take damage you reduce your END score. </p>
+<p>END 4 / 7 -&gt; END 2 / 7</p>
+<p>Your REF and CHA are resources you can use to do certain special actions.</p>
+<p>REF 3 / 5 -&gt; REF 2 / 5 (to make a special aimed shot with a firearm)</p>
+<p>Here's where things get interesting. If you take more damage than you have remaining in your END stat you must reduce a CAP for the excess damage. Lets say you take 5 damage.</p>
+<p>END 2 / 7 -&gt; END 0 / 7</p>
+<p>Now you have to reduce the CAP of either END, REF or CHA by the excess amount (here it would be 3 points). You choose CHA.</p>
+<p>CHA 6 / 6  -&gt; CHA 3 / 3</p>
+<p>Your CAP was lowered, so your score goes down too. Because you didn't spend these points before they are now lost.</p>
+<h2>The Box Version</h2>
+<p>This post was prompted by a friend of mine coming up with a brilliant representation of this system. Imagine each of your stats as a box. The number of boxes represents the MAX of the stat.</p>
+<ul>
+<li>END <span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span></li>
+<li>REF <span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span></li>
+<li>CHA <span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span></li>
+</ul>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">During play your boxes might look like this after taking 3 damage and spending 2 REF points:</span></p>
+<ul>
+<li>END <span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐☑☑☑</span></li>
+<li>REF <span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐☑☑</span></li>
+<li>CHA <span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span></li>
+</ul>
+<p>Now you take 8 damage. You fill in your END boxes, and cross off the remainder from any of the stats.</p>
+<ul>
+<li>END <span class="emz">☑☑☑</span><span class="emz">☑☑☑☒</span></li>
+<li>REF <span class="emz">☐</span><span class="emz">☐☐☒</span><span class="emz">☒</span></li>
+<li>CHA <span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐☒</span></li>
+</ul>
+<p>You've chosen to reduce your maximum healt by one and reduce your CHA by one but also used the already spent REF points without losing any remaining points. Now the combat is over and you heal your healt back.</p>
+<ul>
+<li>END ☐<span class="emz" style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">☐☐</span>☐<span class="emz" style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">☐☐</span><span class="emz" style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">☒</span></li>
+<li>REF <span class="emz">☐</span><span class="emz">☐☐☒</span><span class="emz">☒</span></li>
+<li>CHA <span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐☒</span></li>
+</ul>
+<p>So when do you die? When your END pool is fully crossed off.</p>
+<p>The benefit of this idea is that it forces you to use your points. Sure you can save your REF and CHA points for a bad day but if you ever take more damage than you can handle, and rest assured you certainly will, some of those saved points will be lost.</p>
+<p>The game is not currently available anywhere but you can follow me on <a href="https://bsky.app/profile/hiskih.fi">Bluesky</a> or <a href="https://hiskih.itch.io">Itch</a> to be the first to know when a playable version is out. Cheers!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>All Hail the NWoHF</title>
         <author>
@@ -474,51 +545,6 @@ The rest of this post is an updated combination of my previous posts trying to e
 <li>often heroic and use the familiar kitchen-sink style of DnD 5e</li>
 </ul>
 <p>Or in a single line:</p><p><em>NWOF games feel like 5e DnD narratively but not mechanically</em></p><p>That’s it for today, go argue about definitions or something!</p><p>You can read the part 2 <a href="https://blog.hiskih.fi/more-on-the-nwof.html">here</a> where I discuss more of my thoughts.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Runecycle: &quot;Yes, and&quot; Design</title>
-        <author>
-            <name>HiskiH</name>
-        </author>
-        <link href="https://blog.hiskih.fi/runecycle-yes-and-design.html"/>
-        <id>https://blog.hiskih.fi/runecycle-yes-and-design.html</id>
-            <category term="runecycle"/>
-            <category term="design"/>
-
-        <updated>2025-10-25T20:41:57+03:00</updated>
-            <summary>
-                <![CDATA[
-                    As I am wrapping up Runecycle I find myself wanting to discuss&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>As I am wrapping up Runecycle I find myself wanting to discuss a phenomenon I've finally found a name for: "Yes, and" Design. I believe it is one corner of the neo-trad / OC / modern DnD playstyle, though curiously it seems to often have OSR influence as well.</p>
-<p>What I'm talking about is games that are designed to empower the players and GM to do cool things. And you'd think this would describe a loooot of games and you'd be right. But having written (in my mind) an explicitly <em>Yes, and</em> game, I would like to be more specific.</p>
-<p>Many playstyles give players what they want in some way or another. A good OSR referee will allow the players to use their creativity in solving an obstacle, and storygames and PbtA games hand over authorial power to players. What would be more <em>Yes, and</em> than that? But here's the catch: While an OSR game grants the players creative freedom, the genre is inherently beholden to some amount of gritty realism. There is some amount of <em>Yes, but</em> going around. Similarly, games that give authorial control to everyone aren't in my eyes <em>Yes, and</em> as they tend to give out the reigns to the players as opposed to fostering a yes-and-ing collaboration between GM and player. I feel like too much narrative freedom is just <em>Yes, yes</em> Design, as opposed to the rules-driven sandbox of <em>Yes, and</em>.</p>
-<p>So what do I mean by <em>Yes, and</em>? I mean games that have rules that</p>
-<ul>
-<li>Explicitly encourage yes-and-ing by stating to rule in favor of the players in the procedure, and while rules detailed, are written with the explicit intent of being partially ignored. Rules that are not made to be watertight simulations but instead to offer a framework of fun (such as Vagabond // Pulp Fantasy RPG). </li>
-<li>Give players freedom to create unique and personal characters. Many games (Runecycle included) take the tag approach that allows for players to describe their character in thematic words and sentences without direct limits. Vagabond skirts the line with it's perk-system and mechanics-only magic system.</li>
-<li>Encourage players and GMs to tell a good story over tightly ruled game. That the game system inherently pushes players to stretch what is realistic and the GM to take the players from 0 to 100 in the narrative whenever necessary.</li>
-</ul>
-<p>These three features I observe in my playtests of Runecycle.</p>
-<p>That players tend to create characters with powers and backgrounds no-one could have foreseen: Everything from a now extinct <em>Steller's Sea Cow </em>to the<em> literal narrator of the story</em>.</p>
-<p>How I as the GM use the various tools in the rules toolbox to choose what type of rolls and Test I ask for and when, flexing both the passage of time and how success is defined to make the play experience as fun as it can be. Runecycle in my hands builds inherently high-action stories where fun and laughter is the primary goal, without trying to be a game of comedy.</p>
-<p>And how one of the first things the book tells the reader is to take the system and run it the way you want. I've hopefully been able to make a game that is very easy to mod and extend both narratively and ruleswise, without making a modular or generic system. I want you to take the bits you like and ignore the one's you don't.</p>
-<hr>
-<p>Yes-and-ing is great! So why isn't every game like that? Well, taking <em>Yes, and</em> to an extreme can have, for example, these negative consequences:</p>
-<ul>
-<li>lack of coherence, generality over specificity</li>
-<li>leaning on GM fiat while not having well defined basis to which make rulings from</li>
-<li>inherently more whimsical and less serious than many other games</li>
-<li>somehow both overwhelming and underwhelming rules</li>
-<li>no guardrails against optimizers and people bad at co-operating</li>
-</ul>
-<p>With that said, <em>Yes, and</em> Design is not a binary metric, most games have some amount of <em>Yes, and</em> in them. So take what you like and <em>Yes, and</em> yourself! Go make some games that <em>Yes, and</em> the way you see best.</p>
-<p>Cheers!</p>
             ]]>
         </content>
     </entry>
