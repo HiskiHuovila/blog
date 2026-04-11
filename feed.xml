@@ -3,7 +3,7 @@
     <title>HiskiH&#x27;s Blog</title>
     <link href="https://blog.hiskih.fi/feed.xml" rel="self" />
     <link href="https://blog.hiskih.fi" />
-    <updated>2026-04-11T19:52:15+03:00</updated>
+    <updated>2026-04-11T19:59:46+03:00</updated>
     <author>
         <name>HiskiH</name>
     </author>
@@ -68,7 +68,7 @@
 <li>REF <span class="emz">☐</span><span class="emz">☐☐☒</span><span class="emz">☒</span></li>
 <li>CHA <span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐</span><span class="emz">☐☒</span></li>
 </ul>
-<p>You've chosen to reduce your maximum healt by one and reduce your CHA by one but also used the already spent REF points without losing any remaining points. Now the combat is over and you heal your healt back.</p>
+<p>You've chosen to reduce your maximum healt by one and reduce your CHA by one but also used the already spent REF points without losing any remaining points. Now the combat is over and you heal your health back.</p>
 <ul>
 <li>END ☐<span class="emz" style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">☐☐</span>☐<span class="emz" style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">☐☐</span><span class="emz" style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">☒</span></li>
 <li>REF <span class="emz">☐</span><span class="emz">☐☐☒</span><span class="emz">☒</span></li>
@@ -180,6 +180,7 @@ The rest of this post is an updated combination of my previous posts trying to e
         <id>https://blog.hiskih.fi/mobile-dungeon-taskforce-playtest-report-2.html</id>
         <media:content url="https://blog.hiskih.fi/media/posts/17/engrave-test.png" medium="image" />
             <category term="playtest"/>
+            <category term="mdtf"/>
 
         <updated>2026-02-25T23:19:41+02:00</updated>
             <summary>
@@ -396,6 +397,7 @@ The rest of this post is an updated combination of my previous posts trying to e
         <link href="https://blog.hiskih.fi/mobile-dungeon-taskforce-playtest-report-1.html"/>
         <id>https://blog.hiskih.fi/mobile-dungeon-taskforce-playtest-report-1.html</id>
             <category term="playtest"/>
+            <category term="mdtf"/>
 
         <updated>2025-12-20T22:30:03+02:00</updated>
             <summary>
