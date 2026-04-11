@@ -3,7 +3,7 @@
     <title>HiskiH&#x27;s Blog</title>
     <link href="https://blog.hiskih.fi/feed.xml" rel="self" />
     <link href="https://blog.hiskih.fi" />
-    <updated>2026-04-11T19:51:00+03:00</updated>
+    <updated>2026-04-11T19:52:15+03:00</updated>
     <author>
         <name>HiskiH</name>
     </author>
@@ -33,7 +33,7 @@
                     <p><img src="https://blog.hiskih.fi/media/posts/22/stat-cap-max.jpg" class="type:primaryImage" alt="" /></p>
                 <p>The latest version of MDTF playtest features a stat system that combines Into the Odd and Vagabond // Pulp Fantasy RPG. Here's how it works:</p>
 <p>You have three stats: Endurance (END), Reflex (REF) and Character (CHA). Each stat has a MAX value between 2 and 7.</p>
-<p>On your character sheet each stat has a value, a MAX value and CAP value. Your MAX is the canonical value of the stat and doesn't affect play in any way. Your CAP value is the maximum value the stat can have DURING play.</p>
+<p>On your character sheet each stat has a value, a MAX value and CAP value. Your MAX is the canonical value of the stat and doesn't affect play in any way. Your CAP value is the maximum value the stat can have DURING play. Your CAPs return to their MAX values when your rest.</p>
 <p>So when you play, your stats might look like this:</p>
 <ul style="list-style-type: square;">
 <li>END 4 / 7  (MAX 7)</li>
