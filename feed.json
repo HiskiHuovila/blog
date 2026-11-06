@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://blog.hiskih.fi/its-my-nsr-now.html",
+            "url": "https://blog.hiskih.fi/its-my-nsr-now.html",
+            "title": "It&#x27;s My NSR Now",
+            "summary": "So we had our biweekly shrugging session at the NSR Cauldron talking&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">So we had our biweekly shrugging session at the NSR Cauldron talking in circles about how we don’t know what the NSR is. Our resident NSR expert Tim B. (I think so, Tim might disagree) said he doesn’t use the term anymore. I joked multiple times in the preceding conversation how the NSR isn’t real.</span></p>\n<p><span style=\"font-weight: 400;\">Tim tried to call people to action <a href=\"https://www.congas.blog/osr-nsr-survey-analysis/\">earlier this year</a> but not much happened. The NSR remained a memory. So I’m doing something about it. The best way to make people talk about something is to proudly declare your opinions and misplaced authority online. So here I am.</span></p>\n<p><span style=\"font-weight: 400;\">I made a game called <a href=\"https://games.hiskih.fi/runecycle\">Runecycle</a>. I wanted to call it NSR but I couldn’t really fit it into the definition. So I’m doing the next logical thing and changing the definition of NSR to fit Runecycle.</span></p>\n<p><span style=\"font-weight: 400;\">This is where I would explain the history of the OSR and NSR. But I won’t, because the point here is to make something new. The NSR was a thing. It might still be a thing, I don’t know. But I’m going to foster-parent it for one blogpost until someone else writes a response. If you still want the history you can read my version of the OSR history in my <a href=\"https://aaltodoc.aalto.fi/items/fc6c049a-4f63-40cd-a9f0-03575579e616\">thesis</a> or stuff about the NSR on <a href=\"https://www.congas.blog/\">Tim’s blog</a>.</span></p>\n<h2><span style=\"font-weight: 400;\">My NSR is here</span></h2>\n<p><span style=\"font-weight: 400;\">My NSR is indie. It’s small, scrappy, and diy. Chris McDowall is still indie.</span></p>\n<p><span style=\"font-weight: 400;\">My NSR is new and experimental. It’s the New School Revolution. Nothing old about that.</span></p>\n<p><span style=\"font-weight: 400;\">My NSR likes RPGs. All of them.</span></p>\n<p><span style=\"font-weight: 400;\">My NSR likes to play. The games are less important than the play. What happens at the table is what matters.</span></p>\n<p><span style=\"font-weight: 400;\">From one-page games to small softcovers, my NSR is affordable, accessible, and easy to digest. My NSR is cool, weird, poignant, punk, political, topical, contradictory, co-operative, inconsistent, impressionist, insistent, incandescent, indecent, and everything else that comes with being New,</span><span style=\"font-weight: 400;\"> School, and Revolution.</span></p>\n<p><span style=\"font-weight: 400;\">What’s your NSR?</span></p>",
+            "image": "https://blog.hiskih.fi/media/posts/26/myNSRacademia.jpg",
+            "author": {
+                "name": "HiskiH"
+            },
+            "tags": [
+                   "runecycle",
+                   "osr"
+            ],
+            "date_published": "2026-11-06T21:08:11+02:00",
+            "date_modified": "2026-11-06T21:08:11+02:00"
+        },
+        {
             "id": "https://blog.hiskih.fi/generic-fantasy-is-well-designed-for-conflict.html",
             "url": "https://blog.hiskih.fi/generic-fantasy-is-well-designed-for-conflict.html",
             "title": "Generic Fantasy is Well Designed for Conflict",
@@ -156,22 +173,6 @@
             ],
             "date_published": "2026-01-09T14:29:57+02:00",
             "date_modified": "2026-01-10T12:18:15+02:00"
-        },
-        {
-            "id": "https://blog.hiskih.fi/mobile-dungeon-taskforce-playtest-report-1.html",
-            "url": "https://blog.hiskih.fi/mobile-dungeon-taskforce-playtest-report-1.html",
-            "title": "Mobile Dungeon TaskForce - Playtest Report 1",
-            "summary": "I've been working on a game I call Mobile Dungeon TaskForce. Storywise&hellip;",
-            "content_html": "<p>I've been working on a game I call Mobile Dungeon TaskForce. Storywise it's a simple game where human military spec ops fight fantasy dungeons. No, I have not seen the anime Gate.</p>\n<p>The main design goal is to make a game that can easily convert existing OSR dungeons to play with this game and experience them from a new point of view. I like fantasy dungeons but I've never liked medieval dungeon crawlers.</p>\n<p>To achieve this goal I've decided to marry two excellent dungeon games: Into the Odd by Chris McDowall and Vagabond by Taron \"Indestructoboy\" Pounds. All of the simplicity from the former and some action-first ideas from the latter. And there is of course going to be an NWOF spin on the whole thing because we like character customization in this house.</p>\n<p>First playtest was set during the holidays so of course it was inspired by Die Hard. The players saved a skyscraper-bank from goblins after the vault of the bank got turned into a dragon's hoard. The players had a good time without any major hitches, thanks to the brilliant Mark of the Odd core. High lethality and some hand grenades already made the game quite fun to play.</p>\n<p>Here's what needs work:</p>\n<ul>\n<li>I tried using armor as a target number. Any damage below armor would be ignored, and above taken directly. But that felt useles at most armor numbers, so I'm going back to damage reduction.</li>\n<li>More tactics: the players were already fans of Shadowdark so simplistic combat was not an issue but they still hoped for more tactical combat. So I'm bringing in Action Points from Nimble into the mix! Let's see how that goes.</li>\n<li>More weapon mechanics: I already had four unique weapons that behaved differently in simple ways. AOE shotgun, high damage sniper, etc. The weapons also had optional attachments for minor tweaks. After testing, I will incorporate some of the attachments directly to the weapons. Players wanted the weapons to play very differently, so I will happily oblige and build in more mechanics to them.</li>\n<li>Despite the simple premise lore is needed to better explain how and why dungeons exist and why the general public does not know about them. I'm considering making it so that dungeons don't show up on camera.</li>\n<li>XP system to incentivise proper play. I'm thinking dealing out XP based on human hostages saved, as well as eliminating the heart of the dungeon (boss) and from figuring out why the dungeon appeared. Players need directions to avoid violating the Geneva Convention.</li>\n</ul>\n<p>Overall I'm very happy how well this worked out of the gate (pun intended). The core is there, the premise works and now it's all about finding the right balance of crunch and simplicity.</p>\n<p>The game is not currently available anywhere but you can follow me on <a href=\"https://bsky.app/profile/hiskih.fi\">Bluesky</a> or <a href=\"https://hiskih.itch.io\">Itch</a> to be the first to know when a playable version is out. Cheers!</p>",
-            "author": {
-                "name": "HiskiH"
-            },
-            "tags": [
-                   "playtest",
-                   "mdtf"
-            ],
-            "date_published": "2025-12-20T22:30:03+02:00",
-            "date_modified": "2026-04-11T19:59:38+03:00"
         }
     ]
 }
